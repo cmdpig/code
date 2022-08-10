@@ -7,5 +7,5 @@ int main(){
     for(int i=1;i<=q;i++){
         cout<<m;
     }
-    
+    cout<<1;
 }
